@@ -1,1 +1,1 @@
-docker pull kartoza/geoserver:2.25.2
+kartoza/geoserver:2.25.2
