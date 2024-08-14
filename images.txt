@@ -1,1 +1,1 @@
-bytebase/bytebase:2.22.0
+bytebase/bytebase:2.22.1
