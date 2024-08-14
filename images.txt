@@ -1,1 +1,1 @@
-bytebase/bytebase:2.22.1
+bytebase/bytebase:2.22.1@sha256:f316021afc68932e2c4be033b247361ad405bf5f6e783bb269484dcbb5dec3f3
