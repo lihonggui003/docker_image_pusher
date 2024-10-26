@@ -1,1 +1,1 @@
-bytebase/bytebase:2.22.1
+registry.k8s.io/pause:3.6
