@@ -1,5 +1,5 @@
-image: mysql:8
-#image: redis:6.2
-#image: victoriametrics/victoria-metrics:v1.79.12
-#image: flashcatcloud/nightingale:latest
-#image: flashcatcloud/categraf:latest
+mysql:8
+redis:6.2
+victoriametrics/victoria-metrics:v1.79.12
+flashcatcloud/nightingale:latest
+flashcatcloud/categraf:latest
