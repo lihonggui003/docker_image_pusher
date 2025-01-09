@@ -1,5 +1,2 @@
-mysql:8
-redis:6.2
-victoriametrics/victoria-metrics:v1.79.12
-flashcatcloud/nightingale:latest
-flashcatcloud/categraf:latest
+quay.io/metallb/controller:v0.14.9
+quay.io/metallb/speaker:v0.14.9
