@@ -1,2 +1,6 @@
-quay.io/metallb/controller:v0.14.9
-quay.io/metallb/speaker:v0.14.9
+dongtai/dongtai-redis:1.17.4
+dongtai/dongtai-mysql:1.17.3
+dongtai/dongtai-web:1.16.0
+dongtai/dongtai-server:1.16.0
+dongtai/dongtai-logrotate:1.16.0
+dongtai/dongtai-logstash:1.16.0
