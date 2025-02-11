@@ -1,6 +1,1 @@
-dongtai/dongtai-redis:1.8.0
-dongtai/dongtai-mysql:1.8.0
-dongtai/dongtai-web:1.8.0
-dongtai/dongtai-server:1.8.0
-dongtai/dongtai-logrotate:1.8.0
-dongtai/dongtai-logstash:1.8.0
+searxng/searxng
