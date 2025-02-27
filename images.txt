@@ -1,1 +1,1 @@
-gpustack/gpustack
+gpustack/gpustack:v0.4
