@@ -1,1 +1,1 @@
-gpustack/gpustack:v0.4
+gpustack/gpustack:latest-npu
