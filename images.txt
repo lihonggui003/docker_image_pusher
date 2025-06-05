@@ -1,1 +1,1 @@
-nginx
+gpustack/gpustack:latest-npu-310p
