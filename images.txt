@@ -1,1 +1,1 @@
-gpustack/gpustack:latest-npu-310p
+gpustack/gpustack:latest-npu-310p@sha256:e71018c912f86c95b56a64f178db88a2e44c5c87bf3e12e55171ae9fb5f74cea
