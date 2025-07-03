@@ -1,1 +1,1 @@
-gpustack/gpustack:latest-npu@sha256-b5a95c7dc5b7dbd0db632e597e7c342aa529159f6260496548ef3e4ca0ea5397
+gpustack/gpustack:latest-npu@sha256:b5a95c7dc5b7dbd0db632e597e7c342aa529159f6260496548ef3e4ca0ea5397
