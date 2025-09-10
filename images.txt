@@ -1,1 +1,1 @@
-ghcr.io/jumpserver/core:v4.10.7-ce
+gpustack/gpustack:latest-npu-310p@sha256:aab7413749145df83962d2348af25be5f51f9451ebae994d2f9a57bd02597a9d
